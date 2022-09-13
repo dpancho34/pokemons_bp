@@ -1,0 +1,65 @@
+.header-container {
+    width: 100%;
+    height: 23%;
+    min-height: 70px;
+    max-height: 200px;
+    background: transparent;
+    display: flex;
+}
+
+.label-list {
+    min-height: 55px;
+    max-height: 110px;
+    width: 50%;
+    text-align: left;
+    position: relative;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.search {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 20px;
+    opacity: 0.5;
+    border: 0.7px solid #727178;
+    height: 28px;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+.search-container {
+    width: 50%;
+}
+
+.search-button {
+    width: 50%;
+    text-align: right;
+    padding-top: 23px;
+}
+
+.button {
+    border: none;
+    height: 32px;
+    width: 90px;  
+    background-color: #6756f4;
+}
+
+.icon {
+    color: white;
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.text-btn {
+    margin-top: 7px;
+    color: white;
+    height: 20px;
+    font-size: 15px;
+}

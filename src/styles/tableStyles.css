@@ -1,0 +1,28 @@
+.table-container {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 3px;
+  }
+th {
+    padding: 8px;
+}
+
+.action-icons {
+    text-align: center;
+}
+
+#edit {
+    margin-right: 30px;
+}
